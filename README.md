@@ -1,11 +1,3 @@
-# Label-free Concept Bottleneck Models
-
-This is the official repository for our paper [Label-Free Concept Bottleneck Models](https://openreview.net/forum?id=FlCg47MNvBA) published at ICLR 2023. LF-CBM is a new framework to transform any neural networks into an interpretable Concept Bottleneck Model (CBM) without the need for labeled concept data.
-
-**Update 6/5/2023**: We have conducted a crowdsourced user study to measure the interpretability of our method, results are available in Appendix B of [our arxiv paper](https://arxiv.org/abs/2304.06129).
-
-<img src=data/LF-CBM_overview.jpg alt="Overview" width=655 height=400>
-
 ## Setup
 
 1. Install Python (3.9) and PyTorch (1.13).
@@ -36,43 +28,7 @@ Evaluate the trained models by running `evaluate_cbm.ipynb`. This measures model
 
 Additional evaluations and reproductions of our model editing experiments are available in the notebooks of `experiments` directory.
 
-## Results
+### 4. Reproduce ACC results.
 
-High Accuracy:
-
-|                   |         |          | Dataset |           |          |
-|-------------------|---------|----------|---------|-----------|----------|
-| Model             | CIFAR10 | CIFAR100 | CUB200  | Places365 | ImageNet |
-| Standard          | 88.80%  | 70.10%   | 76.70%  | 48.56%    | 76.13%   |
-| Standard (sparse) | 82.96%  | 58.34%   | **75.96%**  | 38.46%    | **74.35%**   |
-| Label-free CBM    | **86.37%** | **65.27%**   | 74.59%  | **43.71%**   | 71.98%   |
-
-For commands to train Label-free CBM and Standard (sparse) models on all 5 datasets, see `training_commands.txt`.
-
-Explainable Decsisions:
-
-![](data/lf_cbm_ind_decision.png)
-
-## Sources
-
-CUB dataset: https://www.vision.caltech.edu/datasets/cub_200_2011/
-
-Sparse final layer training: https://github.com/MadryLab/glm_saga
-
-Explanation bar plots adapted from: https://github.com/slundberg/shap
-
-CLIP: https://github.com/openai/CLIP
-
-## Cite this work
-T. Oikarinen, S. Das, L. Nguyen and T.-W. Weng, [*Label-free Concept Bottleneck Models*](https://openreview.net/pdf?id=FlCg47MNvBA), ICLR 2023.
-
-```
-@inproceedings{oikarinenlabel,
-  title={Label-free Concept Bottleneck Models},
-  author={Oikarinen, Tuomas and Das, Subhro and Nguyen, Lam M and Weng, Tsui-Wei},
-  booktitle={International Conference on Learning Representations},
-  year={2023}
-}
-```
 
 
