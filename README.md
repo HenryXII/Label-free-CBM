@@ -1,3 +1,7 @@
+# Using Automatic Concept Correction to improve LF-CBM
+
+This is the repository for my DSC180A project where I used the technique of Automatic Concept Correction to further improve LF-CBM (https://github.com/Trustworthy-ML-Lab/Label-free-CBM). 
+
 ## Setup
 
 1. Install Python (3.9) and PyTorch (1.13).
@@ -10,17 +14,17 @@ We do not provide download instructions for ImageNet data, to evaluate using you
 
 ## Running the models
 
-### 1. Creating Concept Sets (Optional):
-A. Create initial concept set using GPT-3 - `GPT_initial_concepts.ipynb`, do this for all 3 prompt types (can be skipped if using the concept sets we have provided). NOTE: This step costs money and you will have to provide your own `openai.api_key`.
-
-B. Process and filter the conceptset by running `GPT_conceptset_processor.ipynb` (Alternatively get ConceptNet concepts by running ConceptNet_conceptset.ipynb)
-
-### 2. Train LF-CBM
+### 1. Train LF-CBM
 
 Train a concept bottleneck model on CIFAR10 by running:
 
 `python train_cbm.py --concept_set data/concept_sets/cifar10_filtered.txt`
 
+### 2. Reproduce ACC results.
+
+Train a concept bottleneck model with ACC on CIFAR10 by running:
+
+`python train_cbm.py --concept_set data/concept_sets/cifar10_filtered.txt --acc data/concept_sets/merged_cifar10_concepts.json`
 
 ### 3. Evaluate trained models
 
@@ -28,7 +32,6 @@ Evaluate the trained models by running `evaluate_cbm.ipynb`. This measures model
 
 Additional evaluations and reproductions of our model editing experiments are available in the notebooks of `experiments` directory.
 
-### 4. Reproduce ACC results.
 
 
 
