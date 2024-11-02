@@ -1,0 +1,312 @@
+a curved (up or down) bill
+a dagger shaped bill
+a hooked bill
+a needle shaped bill
+a hooked seabird bill
+a spatulate bill
+an all-purpose bill
+a cone shaped bill
+a specialized bill
+a blue wing
+a brown wing
+an iridescent wing
+a purple wing
+a rufous wing
+a grey wing
+a yellow wing
+an olive wing
+a green wing
+a pink wing
+an orange wing
+a black wing
+a white wing
+a red wing
+a buff wing
+a blue upperparts
+a brown upperparts
+an iridescent upperparts
+a purple upperparts
+a rufous upperparts
+a grey upperparts
+a yellow upperparts
+an olive upperparts
+a green upperparts
+a pink upperparts
+an orange upperparts
+a black upperparts
+a white upperparts
+a red upperparts
+a buff upperparts
+a blue underparts
+a brown underparts
+an iridescent underparts
+a purple underparts
+a rufous underparts
+a grey underparts
+a yellow underparts
+an olive underparts
+a green underparts
+a pink underparts
+an orange underparts
+a black underparts
+a white underparts
+a red underparts
+a buff underparts
+a solid breast pattern
+a spotted breast pattern
+a striped breast pattern
+a multi-colored breast pattern
+a blue back
+a brown back
+an iridescent back
+a purple back
+a rufous back
+a grey back
+a yellow back
+an olive back
+a green back
+a pink back
+an orange back
+a black back
+a white back
+a red back
+a buff back
+a forked tail
+a rounded tail
+a notched tail
+a fan-shaped tail
+a pointed tail
+a squared tail
+a blue upper tail
+a brown upper tail
+an iridescent upper tail
+a purple upper tail
+a rufous upper tail
+a grey upper tail
+a yellow upper tail
+an olive upper tail
+a green upper tail
+a pink upper tail
+an orange upper tail
+a black upper tail
+a white upper tail
+a red upper tail
+a buff upper tail
+a spotted head pattern
+a malar head pattern
+a crested head pattern
+a masked head pattern
+a unique head pattern
+an eyebrow head pattern
+an eyering head pattern
+a plain head pattern
+an eyeline head pattern
+a striped head pattern
+a capped head pattern
+a blue breast
+a brown breast
+an iridescent breast
+a purple breast
+a rufous breast
+a grey breast
+a yellow breast
+an olive breast
+a green breast
+a pink breast
+an orange breast
+a black breast
+a white breast
+a red breast
+a buff breast
+a blue throat
+a brown throat
+an iridescent throat
+a purple throat
+a rufous throat
+a grey throat
+a yellow throat
+an olive throat
+a green throat
+a pink throat
+an orange throat
+a black throat
+a white throat
+a red throat
+a buff throat
+a blue eye
+a brown eye
+a purple eye
+a rufous eye
+a grey eye
+a yellow eye
+an olive eye
+a green eye
+a pink eye
+an orange eye
+a black eye
+a white eye
+a red eye
+a buff eye
+a bill about the same length as head
+a bill longer than head
+a bill shorter than head
+a blue forehead
+a brown forehead
+an iridescent forehead
+a purple forehead
+a rufous forehead
+a grey forehead
+a yellow forehead
+an olive forehead
+a green forehead
+a pink forehead
+an orange forehead
+a black forehead
+a white forehead
+a red forehead
+a buff forehead
+a blue under tail
+a brown under tail
+an iridescent under tail
+a purple under tail
+a rufous under tail
+a grey under tail
+a yellow under tail
+an olive under tail
+a green under tail
+a pink under tail
+an orange under tail
+a black under tail
+a white under tail
+a red under tail
+a buff under tail
+a blue nape
+a brown nape
+an iridescent nape
+a purple nape
+a rufous nape
+a grey nape
+a yellow nape
+an olive nape
+a green nape
+a pink nape
+an orange nape
+a black nape
+a white nape
+a red nape
+a buff nape
+a blue belly
+a brown belly
+an iridescent belly
+a purple belly
+a rufous belly
+a grey belly
+a yellow belly
+an olive belly
+a green belly
+a pink belly
+an orange belly
+a black belly
+a white belly
+a red belly
+a buff belly
+a rounded-wings shape
+a pointed-wings shape
+a broad-wings shape
+a tapered-wings shape
+a long-wings shape
+a large size (16 - 32 in)
+a small size (5 - 9 in)
+a very large size (32 - 72 in)
+a medium size (9 - 16 in)
+a very small size (3 - 5 in)
+an upright-perching water-like shape
+a chicken-like-marsh shape
+a long-legged-like shape
+a duck-like shape
+an owl-like shape
+a gull-like shape
+a hummingbird-like shape
+a pigeon-like shape
+a tree-clinging-like shape
+a hawk-like shape
+a sandpiper-like shape
+an upland-ground-like shape
+a swallow-like shape
+a perching-like shape
+a solid back pattern
+a spotted back pattern
+a striped back pattern
+a multi-colored back pattern
+a solid tail pattern
+a spotted tail pattern
+a striped tail pattern
+a multi-colored tail pattern
+a solid belly pattern
+a spotted belly pattern
+a striped belly pattern
+a multi-colored belly pattern
+a blue primary color
+a brown primary color
+an iridescent primary color
+a purple primary color
+a rufous primary color
+a grey primary color
+a yellow primary color
+an olive primary color
+a green primary color
+a pink primary color
+an orange primary color
+a black primary color
+a white primary color
+a red primary color
+a buff primary color
+a blue leg
+a brown leg
+an iridescent leg
+a purple leg
+a rufous leg
+a grey leg
+a yellow leg
+an olive leg
+a green leg
+a pink leg
+an orange leg
+a black leg
+a white leg
+a red leg
+a buff leg
+a blue bill
+a brown bill
+an iridescent bill
+a purple bill
+a rufous bill
+a grey bill
+a yellow bill
+an olive bill
+a green bill
+a pink bill
+an orange bill
+a black bill
+a white bill
+a red bill
+a buff bill
+a blue crown
+a brown crown
+an iridescent crown
+a purple crown
+a rufous crown
+a grey crown
+a yellow crown
+an olive crown
+a green crown
+a pink crown
+an orange crown
+a black crown
+a white crown
+a red crown
+a buff crown
+a solid wing pattern
+a spotted wing pattern
+a striped wing pattern
+a multi-colored wing pattern

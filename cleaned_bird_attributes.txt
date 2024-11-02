@@ -1,0 +1,312 @@
+a has bill shape curved (up or down)
+a has bill shape dagger
+a has bill shape hooked
+a has bill shape needle
+a has bill shape hooked seabird
+a has bill shape spatulate
+a has bill shape all-purpose
+a has bill shape cone
+a has bill shape specialized
+a has wing color blue
+a has wing color brown
+a has wing color iridescent
+a has wing color purple
+a has wing color rufous
+a has wing color grey
+a has wing color yellow
+a has wing color olive
+a has wing color green
+a has wing color pink
+a has wing color orange
+a has wing color black
+a has wing color white
+a has wing color red
+a has wing color buff
+a has upperparts color blue
+a has upperparts color brown
+a has upperparts color iridescent
+a has upperparts color purple
+a has upperparts color rufous
+a has upperparts color grey
+a has upperparts color yellow
+a has upperparts color olive
+a has upperparts color green
+a has upperparts color pink
+a has upperparts color orange
+a has upperparts color black
+a has upperparts color white
+a has upperparts color red
+a has upperparts color buff
+a has underparts color blue
+a has underparts color brown
+a has underparts color iridescent
+a has underparts color purple
+a has underparts color rufous
+a has underparts color grey
+a has underparts color yellow
+a has underparts color olive
+a has underparts color green
+a has underparts color pink
+a has underparts color orange
+a has underparts color black
+a has underparts color white
+a has underparts color red
+a has underparts color buff
+a has breast pattern solid
+a has breast pattern spotted
+a has breast pattern striped
+a has breast pattern multi-colored
+a has back color blue
+a has back color brown
+a has back color iridescent
+a has back color purple
+a has back color rufous
+a has back color grey
+a has back color yellow
+a has back color olive
+a has back color green
+a has back color pink
+a has back color orange
+a has back color black
+a has back color white
+a has back color red
+a has back color buff
+a has tail shape forked tail
+a has tail shape rounded tail
+a has tail shape notched tail
+a has tail shape fan-shaped tail
+a has tail shape pointed tail
+a has tail shape squared tail
+a has upper tail color blue
+a has upper tail color brown
+a has upper tail color iridescent
+a has upper tail color purple
+a has upper tail color rufous
+a has upper tail color grey
+a has upper tail color yellow
+a has upper tail color olive
+a has upper tail color green
+a has upper tail color pink
+a has upper tail color orange
+a has upper tail color black
+a has upper tail color white
+a has upper tail color red
+a has upper tail color buff
+a has head pattern spotted
+a has head pattern malar
+a has head pattern crested
+a has head pattern masked
+a has head pattern unique pattern
+a has head pattern eyebrow
+a has head pattern eyering
+a has head pattern plain
+a has head pattern eyeline
+a has head pattern striped
+a has head pattern capped
+a has breast color blue
+a has breast color brown
+a has breast color iridescent
+a has breast color purple
+a has breast color rufous
+a has breast color grey
+a has breast color yellow
+a has breast color olive
+a has breast color green
+a has breast color pink
+a has breast color orange
+a has breast color black
+a has breast color white
+a has breast color red
+a has breast color buff
+a has throat color blue
+a has throat color brown
+a has throat color iridescent
+a has throat color purple
+a has throat color rufous
+a has throat color grey
+a has throat color yellow
+a has throat color olive
+a has throat color green
+a has throat color pink
+a has throat color orange
+a has throat color black
+a has throat color white
+a has throat color red
+a has throat color buff
+a has eye color blue
+a has eye color brown
+a has eye color purple
+a has eye color rufous
+a has eye color grey
+a has eye color yellow
+a has eye color olive
+a has eye color green
+a has eye color pink
+a has eye color orange
+a has eye color black
+a has eye color white
+a has eye color red
+a has eye color buff
+a has bill length about the same as head
+a has bill length longer than head
+a has bill length shorter than head
+a has forehead color blue
+a has forehead color brown
+a has forehead color iridescent
+a has forehead color purple
+a has forehead color rufous
+a has forehead color grey
+a has forehead color yellow
+a has forehead color olive
+a has forehead color green
+a has forehead color pink
+a has forehead color orange
+a has forehead color black
+a has forehead color white
+a has forehead color red
+a has forehead color buff
+a has under tail color blue
+a has under tail color brown
+a has under tail color iridescent
+a has under tail color purple
+a has under tail color rufous
+a has under tail color grey
+a has under tail color yellow
+a has under tail color olive
+a has under tail color green
+a has under tail color pink
+a has under tail color orange
+a has under tail color black
+a has under tail color white
+a has under tail color red
+a has under tail color buff
+a has nape color blue
+a has nape color brown
+a has nape color iridescent
+a has nape color purple
+a has nape color rufous
+a has nape color grey
+a has nape color yellow
+a has nape color olive
+a has nape color green
+a has nape color pink
+a has nape color orange
+a has nape color black
+a has nape color white
+a has nape color red
+a has nape color buff
+a has belly color blue
+a has belly color brown
+a has belly color iridescent
+a has belly color purple
+a has belly color rufous
+a has belly color grey
+a has belly color yellow
+a has belly color olive
+a has belly color green
+a has belly color pink
+a has belly color orange
+a has belly color black
+a has belly color white
+a has belly color red
+a has belly color buff
+a has wing shape rounded-wings
+a has wing shape pointed-wings
+a has wing shape broad-wings
+a has wing shape tapered-wings
+a has wing shape long-wings
+a has size large (16 - 32 in)
+a has size small (5 - 9 in)
+a has size very large (32 - 72 in)
+a has size medium (9 - 16 in)
+a has size very small (3 - 5 in)
+a has shape upright-perching water-like
+a has shape chicken-like-marsh
+a has shape long-legged-like
+a has shape duck-like
+a has shape owl-like
+a has shape gull-like
+a has shape hummingbird-like
+a has shape pigeon-like
+a has shape tree-clinging-like
+a has shape hawk-like
+a has shape sandpiper-like
+a has shape upland-ground-like
+a has shape swallow-like
+a has shape perching-like
+a has back pattern solid
+a has back pattern spotted
+a has back pattern striped
+a has back pattern multi-colored
+a has tail pattern solid
+a has tail pattern spotted
+a has tail pattern striped
+a has tail pattern multi-colored
+a has belly pattern solid
+a has belly pattern spotted
+a has belly pattern striped
+a has belly pattern multi-colored
+a has primary color blue
+a has primary color brown
+a has primary color iridescent
+a has primary color purple
+a has primary color rufous
+a has primary color grey
+a has primary color yellow
+a has primary color olive
+a has primary color green
+a has primary color pink
+a has primary color orange
+a has primary color black
+a has primary color white
+a has primary color red
+a has primary color buff
+a has leg color blue
+a has leg color brown
+a has leg color iridescent
+a has leg color purple
+a has leg color rufous
+a has leg color grey
+a has leg color yellow
+a has leg color olive
+a has leg color green
+a has leg color pink
+a has leg color orange
+a has leg color black
+a has leg color white
+a has leg color red
+a has leg color buff
+a has bill color blue
+a has bill color brown
+a has bill color iridescent
+a has bill color purple
+a has bill color rufous
+a has bill color grey
+a has bill color yellow
+a has bill color olive
+a has bill color green
+a has bill color pink
+a has bill color orange
+a has bill color black
+a has bill color white
+a has bill color red
+a has bill color buff
+a has crown color blue
+a has crown color brown
+a has crown color iridescent
+a has crown color purple
+a has crown color rufous
+a has crown color grey
+a has crown color yellow
+a has crown color olive
+a has crown color green
+a has crown color pink
+a has crown color orange
+a has crown color black
+a has crown color white
+a has crown color red
+a has crown color buff
+a has wing pattern solid
+a has wing pattern spotted
+a has wing pattern striped
+a has wing pattern multi-colored
