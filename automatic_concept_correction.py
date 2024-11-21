@@ -2,7 +2,6 @@ import torch
 import json
 from typing import List, Dict
 def create_concept_class_membership(
-        self,
         concepts: List[str],
         classes: List[str],
         acc_file_path: str

@@ -8,6 +8,7 @@ import argparse
 import datetime
 import json
 import numpy as np
+import automatic_concept_correction
 
 from glm_saga.elasticnet import IndexedTensorDataset, glm_saga
 from torch.utils.data import DataLoader, TensorDataset
@@ -101,25 +102,7 @@ def train_cbm_and_save(args):
     concepts = [concepts[i] for i in range(len(concepts)) if highest[i]>args.clip_cutoff]
     
     if args.acc is not None:     
-        concept_class_membership=torch.zeros((len(concepts), len(classes)), dtype=torch.bool)
-#         for prompt_type in ["important","around","superclass"]:
-#         for prompt_type in ["important"]:
-        with open(args.acc,"r") as f:
-            file=json.load(f)
-            if "ALL" in file:
-                # For each concept that should be in all classes
-                for concept in file["ALL"]:
-                    if concept in concepts:
-                        concept_index = concepts.index(concept)
-                        # Set True for this concept across all classes
-                        concept_class_membership[concept_index, :] = True
-             
-            for class_index, class_name in enumerate(classes):
-                if class_name in file:
-                    for concept in file[class_name]:
-                        if concept in concepts:
-                            concept_index = concepts.index(concept)
-                            concept_class_membership[concept_index][class_index] = True
+        concept_class_membership=automatic_concept_correction.create_concept_class_membership(concepts, classes, args.acc)
         print("ACC:finished creating concept_class_membership")
     
     #save memory by recalculating
