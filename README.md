@@ -36,13 +36,13 @@ Additional evaluations and reproductions of our model editing experiments are av
 
 Add the technique of Automatic Concept Correction to improve lf-cbm, code in train_cbm.py where args.acc is checked.
 
-Explore performance of trained lf-cbm, code in evaluate_cbm.ipynb.
+Unit test for ACC in test_automatic_concept_correction.py
 
-Check faithfulness of lf-cbm, code in experiments/make_profile.ipynb, beginning of cbm section.
+Explore performance of trained lf-cbm and show saliency maps of concept neurons, code in evaluate_cbm.ipynb.
 
 Making appropriate json file for acc, code in experiments/acc_experiment.ipynb
 
-The later two are for my own exploration and project development,not cleaned for publish.
+The later two are for my own exploration and project II development, less cleaned for publish.
 
 
 
